@@ -9,7 +9,7 @@ import entities.Course;
 import entities.Student;
 
 public class CourseManager {
-	
+	// Courses 
 	private List<Course> courses = new ArrayList<Course>();
 	
 	public CourseManager(List<Course> courses) {
